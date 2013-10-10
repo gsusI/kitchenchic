@@ -175,7 +175,7 @@ jQuery(document).ready(function() {
       </div><!-- .block-inner -->
     </div><!-- .main-content -->
     
-	<?php get_sidebar(); ?>
+	<?php //get_sidebar(); ?>
     
   </div>
 <?php get_footer(); ?>			
